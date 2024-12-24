@@ -7,7 +7,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      FILE_NAME: main
+      FILE_NAME: s2121177_nozawa
     steps:
       - name: set date tag
         run: echo "NOW=$(date '+%Y-%m-%d-%H-%M-%S')" >> $GITHUB_ENV
