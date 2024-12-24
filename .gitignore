@@ -1,0 +1,17 @@
+## Editor remnant
+.#*
+*~
+*.elc
+## LaTeX output, remnant
+auto
+*.dvi
+*.aux*
+*.blg
+*.log
+*.fls
+*.fdb_latexmk
+*.out
+*.synctex.gz
+*.pdf
+## textlint
+node_modules
